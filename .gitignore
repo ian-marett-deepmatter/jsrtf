@@ -6,3 +6,5 @@
 node_modules
 examples/*.rtf
 *.session
+.idea/
+package-lock.json
