@@ -1,12 +1,15 @@
 {
-  "name": "js-rtf",
-  "version": "0.0.1",
+  "name": "@deepmatter/js-rtf",
+  "version": "0.0.3",
   "description": "Assists with creating rich text documents.",
   "main": "lib/index.js",
-  "author": "Vikash Singh",
+  "author": "lilliputten <igor@lilliputten.ru>",
+  "contributors": [
+	"Ian Marett <ian.marett@deepmatter.io>"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikasing/jsrtf"
+    "url": "https://github.com/ian-marett-deepmatter/jsrtf"
   },
   "keywords": [
     "rtf",
